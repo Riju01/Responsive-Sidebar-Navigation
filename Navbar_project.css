@@ -112,7 +112,7 @@
 }
 
 #check {
-    display: none; /* This should be for checkbox input */
+    display: none; /* This should be for checkbox input */ 
 }
 
 .sidebar_menu .menu li:hover {
